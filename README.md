@@ -307,15 +307,15 @@ Contributions are welcome.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**ANKIT KUMAR**
 
 Python Developer | AI Enthusiast
 
 GitHub:
-https://github.com/your-username
+https://github.com/ankitkumar98844
 
 LinkedIn:
-https://linkedin.com/in/your-profile
+[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankit-kumar-71b492255)
 
 ---
 
